@@ -70,7 +70,7 @@ public class SimpleFraction {
         System.out.println("Деление с одним аргументом: " + x + "/" + y);
     }
 }
-class Main {
+class Calc {
     private static String operation;
     private static int num1;
     private static int num2;
